@@ -7,6 +7,7 @@ npx cypress open
 
 # click on component tests
 # pick the test
-# open the dev tools
+# open the dev tools console tab
+# reload test-
 # look into the first ERROR path, after iframes/... it starts with the home path
 ```
