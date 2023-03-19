@@ -1,7 +1,7 @@
 # SvelteKit Cypress component loading bug with path 
 
 Steps:
-```
+```sh
 npm i
 npx cypress open
 
