@@ -31,7 +31,6 @@ export default defineConfig({
 		// baseUrl: 'http://localhost:5173',
 		specPattern: 'cypress/**/*cy.{js,jsx,ts,tsx}',
 	},
-	port: 1234,
 	viewportWidth: 1920,
 	viewportHeight: 1080,
 });
